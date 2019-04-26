@@ -4,3 +4,4 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/4t27yx7l57iyvr59?svg=true)](https://ci.appveyor.com/project/shubhampal98/marketplace)
 ![licence](https://img.shields.io/github/license/shubhampal98/MarketPlace.svg)
 ![David](https://img.shields.io/david/shubhampal98/MarketPlace.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/shubhampal98/MarketPlace.svg)
