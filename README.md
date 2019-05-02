@@ -6,3 +6,4 @@
 ![David](https://img.shields.io/david/Rajat1999/Testing.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Rajat1999/Testing.svg)
 [![Known Vulnerabilities](https://snyk.io/test/github/Rajat1999/Testing/badge.svg?targetFile=package.json)](https://snyk.io/test/github/Rajat1999/Testing?targetFile=package.json)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/Rajat1999/Testing.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Rajat1999/Testing/alerts/)
