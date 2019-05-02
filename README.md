@@ -5,3 +5,4 @@
 ![licence](https://img.shields.io/github/license/Rajat1999/Testing.svg)
 ![David](https://img.shields.io/david/Rajat1999/Testing.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Rajat1999/Testing.svg)
+[![Known Vulnerabilities](https://snyk.io/test/github/Rajat1999/Testing/badge.svg?targetFile=package.json)](https://snyk.io/test/github/Rajat1999/Testing?targetFile=package.json)
